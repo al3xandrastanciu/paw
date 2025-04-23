@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Rezervari>
+  <Achitat>
+    <121-04/27/2021-12-23 />
+    <1-04/27/2021-2-2 />
+    <2-04/27/2021-3-4 />
+  </Achitat>
+  <Neachitat>
+    <2-04/27/2021-4-3 />
+  </Neachitat>
+</Rezervari>

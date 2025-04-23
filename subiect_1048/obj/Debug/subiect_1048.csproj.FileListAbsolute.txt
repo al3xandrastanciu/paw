@@ -1,0 +1,10 @@
+C:\Users\Vlad\Desktop\subiect_1048\subiect_1048\bin\Debug\subiect_1048.exe.config
+C:\Users\Vlad\Desktop\subiect_1048\subiect_1048\bin\Debug\subiect_1048.exe
+C:\Users\Vlad\Desktop\subiect_1048\subiect_1048\bin\Debug\subiect_1048.pdb
+C:\Users\Vlad\Desktop\subiect_1048\subiect_1048\obj\Debug\subiect_1048.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\subiect_1048\subiect_1048\obj\Debug\subiect_1048.Properties.Resources.resources
+C:\Users\Vlad\Desktop\subiect_1048\subiect_1048\obj\Debug\subiect_1048.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\subiect_1048\subiect_1048\obj\Debug\subiect_1048.exe
+C:\Users\Vlad\Desktop\subiect_1048\subiect_1048\obj\Debug\subiect_1048.pdb
+C:\Users\Vlad\Desktop\subiect_1048\subiect_1048\obj\Debug\subiect_1048.Form1.resources
+C:\Users\Vlad\Desktop\subiect_1048\subiect_1048\obj\Debug\subiect_1048.FormVizualizare.resources
