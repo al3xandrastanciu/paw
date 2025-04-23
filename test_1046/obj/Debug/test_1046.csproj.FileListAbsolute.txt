@@ -1,0 +1,22 @@
+C:\Users\Vlad\Desktop\test_1046\test_1046\bin\Debug\test_1046.exe.config
+C:\Users\Vlad\Desktop\test_1046\test_1046\bin\Debug\test_1046.exe
+C:\Users\Vlad\Desktop\test_1046\test_1046\bin\Debug\test_1046.pdb
+C:\Users\Vlad\Desktop\test_1046\test_1046\obj\Debug\test_1046.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\test_1046\test_1046\obj\Debug\test_1046.Properties.Resources.resources
+C:\Users\Vlad\Desktop\test_1046\test_1046\obj\Debug\test_1046.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\test_1046\test_1046\obj\Debug\test_1046.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\test_1046\test_1046\obj\Debug\test_1046.exe
+C:\Users\Vlad\Desktop\test_1046\test_1046\obj\Debug\test_1046.pdb
+C:\Users\Vlad\Desktop\test_1046\test_1046\obj\Debug\test_1046.Form1.resources
+C:\Users\Vlad\Desktop\test_1046\test_1046\obj\Debug\test_1046.FormVizualizare.resources
+C:\Users\Alexandra\Downloads\Test seminar paw\Test seminar\Ciurea\Rezolvari\test_1046\test_1046\bin\Debug\test_1046.exe.config
+C:\Users\Alexandra\Downloads\Test seminar paw\Test seminar\Ciurea\Rezolvari\test_1046\test_1046\bin\Debug\test_1046.exe
+C:\Users\Alexandra\Downloads\Test seminar paw\Test seminar\Ciurea\Rezolvari\test_1046\test_1046\bin\Debug\test_1046.pdb
+C:\Users\Alexandra\Downloads\Test seminar paw\Test seminar\Ciurea\Rezolvari\test_1046\test_1046\obj\Debug\test_1046.csproj.AssemblyReference.cache
+C:\Users\Alexandra\Downloads\Test seminar paw\Test seminar\Ciurea\Rezolvari\test_1046\test_1046\obj\Debug\test_1046.Form1.resources
+C:\Users\Alexandra\Downloads\Test seminar paw\Test seminar\Ciurea\Rezolvari\test_1046\test_1046\obj\Debug\test_1046.FormVizualizare.resources
+C:\Users\Alexandra\Downloads\Test seminar paw\Test seminar\Ciurea\Rezolvari\test_1046\test_1046\obj\Debug\test_1046.Properties.Resources.resources
+C:\Users\Alexandra\Downloads\Test seminar paw\Test seminar\Ciurea\Rezolvari\test_1046\test_1046\obj\Debug\test_1046.csproj.GenerateResource.cache
+C:\Users\Alexandra\Downloads\Test seminar paw\Test seminar\Ciurea\Rezolvari\test_1046\test_1046\obj\Debug\test_1046.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Downloads\Test seminar paw\Test seminar\Ciurea\Rezolvari\test_1046\test_1046\obj\Debug\test_1046.exe
+C:\Users\Alexandra\Downloads\Test seminar paw\Test seminar\Ciurea\Rezolvari\test_1046\test_1046\obj\Debug\test_1046.pdb

@@ -1,0 +1,11 @@
+C:\Users\Vlad\Desktop\test_1051\test_1051\bin\Debug\test_1051.exe.config
+C:\Users\Vlad\Desktop\test_1051\test_1051\bin\Debug\test_1051.exe
+C:\Users\Vlad\Desktop\test_1051\test_1051\bin\Debug\test_1051.pdb
+C:\Users\Vlad\Desktop\test_1051\test_1051\obj\Debug\test_1051.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\test_1051\test_1051\obj\Debug\test_1051.Properties.Resources.resources
+C:\Users\Vlad\Desktop\test_1051\test_1051\obj\Debug\test_1051.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\test_1051\test_1051\obj\Debug\test_1051.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\test_1051\test_1051\obj\Debug\test_1051.exe
+C:\Users\Vlad\Desktop\test_1051\test_1051\obj\Debug\test_1051.pdb
+C:\Users\Vlad\Desktop\test_1051\test_1051\obj\Debug\test_1051.Form1.resources
+C:\Users\Vlad\Desktop\test_1051\test_1051\obj\Debug\test_1051.Form2.resources
